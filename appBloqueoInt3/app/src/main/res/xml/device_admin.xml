@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device-admin>
+    <uses-policies>
+        <!-- Define políticas de administración de dispositivos si es necesario -->
+    </uses-policies>
+</device-admin>
